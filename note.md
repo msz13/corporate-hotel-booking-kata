@@ -19,3 +19,8 @@ co potrzebne
 - dev container
 - acceptance testing framework
 - messeging que mock
+
+
+Jak testować?
+* webappfactory ?
+* in kubernetes/docker compose
